@@ -23,6 +23,6 @@ Confusion2.prototype.bar = function() {
 	return this.a;
 }
 
-exports = Confusion1;
-exports = Confusion2;
+exports.Confusion1 = Confusion1;
+exports.Confusion2 = Confusion2;
 
